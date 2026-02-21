@@ -191,3 +191,9 @@ https://youtu.be/yLNoXxxyO7Y
 **Q:** Is HEG suitable for Law?  
 **A:** Yes. HEG is commonly recommended for Law. Law is commonly aligned with humanities and social science combinations.
 
+---
+
+## Colab badge
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tracy8/edu-career-assistant-llm/blob/main/Notebook/fine_tuning_edu_assistant.ipynb)
+
