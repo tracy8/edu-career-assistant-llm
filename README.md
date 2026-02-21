@@ -176,9 +176,18 @@ demo.launch()
 
 ## Demo Video
 
-
+https://youtu.be/yLNoXxxyO7Y
 
 ---
 
+## Example Conversations
 
+**Q:** What careers can I pursue with MPC?  
+**A:** MPC (Mathematics, Physics, Chemistry) is commonly linked to engineering, computer science, architecture, physics, and data-related fields.
+
+**Q:** Which combination is best for Medicine?  
+**A:** For Medicine, the most common combination(s) are: PCB. Medicine usually requires strong background in biology and chemistry.
+
+**Q:** Is HEG suitable for Law?  
+**A:** Yes. HEG is commonly recommended for Law. Law is commonly aligned with humanities and social science combinations.
 
